@@ -22,6 +22,16 @@ entries:
     - https://github.com/lupoapp/lupoapp-helm-charts-dev/releases/download/lupoapp-accounts-0.1.0/lupoapp-accounts-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v2
+    appVersion: v0.0.3-prerelease0
+    created: "2022-08-01T19:48:13.02812288Z"
+    description: A Helm chart for Kubernetes
+    digest: 6cf6b68fd87f229b8953c8d26e370bdab7886153f6ec19ad7e8ea4790072ab55
+    name: lupoapp-accounts
+    type: application
+    urls:
+    - https://github.com/lupoapp/lupoapp-helm-charts-dev/releases/download/lupoapp-accounts-v0.0.3-prerelease0/lupoapp-accounts-v0.0.3-prerelease0.tgz
+    version: v0.0.3-prerelease0
+  - apiVersion: v2
     appVersion: v0.0.2
     created: "2022-08-01T17:31:33.834912379Z"
     description: A Helm chart for Kubernetes
